@@ -1,0 +1,2 @@
+# TikTokGameConfig
+TikTokGameConfig
